@@ -91,7 +91,7 @@ query_api(
 You can install the development version of `{appstoreconnectr}` like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+pak::pak("ThinkR-open/appstoreconnectr")
 ```
 
 
